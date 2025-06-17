@@ -1,0 +1,8 @@
+{
+  "name": "Pokemon Challenge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "dc79fe6a"
+}
